@@ -1,0 +1,1 @@
+this is a dice game where if you press hold next player gets the turn and you keep the score there are certain conditions which can reset your score. first one to score certain amount wins.
